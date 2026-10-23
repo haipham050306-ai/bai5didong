@@ -1,0 +1,14 @@
+# Build directories and generated files
+build/
+.dart_tool/
+.pub/
+.codex-temp/
+.gradle/
+
+# IDE and Editor files
+.idea/
+.vscode/
+
+# Dependencies and lock files
+node_modules/
+pubspec.lock
